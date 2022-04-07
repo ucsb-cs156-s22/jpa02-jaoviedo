@@ -1,6 +1,6 @@
 # jpa02-jaoviedo
 
-Repo: https://ucsb-cs156-s22/jpa02-jaoviedo
+Repo: https://github.com/ucsb-cs156-s22/jpa02-jaoviedo
 
 
 On Heroku: https://jpa02-jaoviedo.herokuapp.com/
